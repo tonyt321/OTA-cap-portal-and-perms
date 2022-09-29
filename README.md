@@ -1,4 +1,6 @@
-base code with wifi manager and OTA update in captive portal with saving perams in json
+#base code with wifi manager and OTA update in captive portal with saving perams in json
+#  
+#  
 
 
 
@@ -11,9 +13,7 @@ base code with wifi manager and OTA update in captive portal with saving perams 
 
 
 
-
-
-for esp8266 put this in platformio.ini
+#for esp8266 put this in platformio.ini
 
 
 [platformio]
