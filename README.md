@@ -13,7 +13,7 @@ base code with wifi manager and OTA update in captive portal with saving perams 
 
 
 
-for esp8266 put this in pio 
+for esp8266 put this in platformio.ini
 
 
 [platformio]
